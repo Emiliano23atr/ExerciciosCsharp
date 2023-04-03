@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/emiliano/Área de Trabalho/ExerciciosCsharp/ExerciciosCsharp.csproj": {}
+    "/home/emiliano/Repositorios/ExerciciosCsharp/ExerciciosCsharp.csproj": {}
   },
   "projects": {
-    "/home/emiliano/Área de Trabalho/ExerciciosCsharp/ExerciciosCsharp.csproj": {
+    "/home/emiliano/Repositorios/ExerciciosCsharp/ExerciciosCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/emiliano/Área de Trabalho/ExerciciosCsharp/ExerciciosCsharp.csproj",
+        "projectUniqueName": "/home/emiliano/Repositorios/ExerciciosCsharp/ExerciciosCsharp.csproj",
         "projectName": "ExerciciosCsharp",
-        "projectPath": "/home/emiliano/Área de Trabalho/ExerciciosCsharp/ExerciciosCsharp.csproj",
+        "projectPath": "/home/emiliano/Repositorios/ExerciciosCsharp/ExerciciosCsharp.csproj",
         "packagesPath": "/home/emiliano/.nuget/packages/",
-        "outputPath": "/home/emiliano/Área de Trabalho/ExerciciosCsharp/obj/",
+        "outputPath": "/home/emiliano/Repositorios/ExerciciosCsharp/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/home/emiliano/.local/share/godot/mono/GodotNuGetFallbackFolder"
