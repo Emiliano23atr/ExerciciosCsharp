@@ -10,6 +10,8 @@ namespace ExerciciosCsharp {
                 {"Deixando tudo pronto", Exercicio001.Executar},
                 {"Respondendo ao Usuário", Exercicio002.Executar},
                 {"Somando dois números", Exercicio003.Executar},
+                // Exercicio004
+                {"Antecessor e Sucessor", Exercicio005.Executar},
             });
 
             central.SelecionarEExecutar();
