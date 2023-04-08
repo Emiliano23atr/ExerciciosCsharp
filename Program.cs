@@ -12,6 +12,7 @@ namespace ExerciciosCsharp {
                 {"Somando dois números", Exercicio003.Executar},
                 // Exercicio004
                 {"Antecessor e Sucessor", Exercicio005.Executar},
+                {"Dobro, Triplo, Raiz Quadrada", Exercicio006.Executar},
             });
 
             central.SelecionarEExecutar();
