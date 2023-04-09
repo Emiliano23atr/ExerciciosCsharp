@@ -15,6 +15,7 @@ namespace ExerciciosCsharp {
                 {"Dobro, Triplo, Raiz Quadrada", Exercicio006.Executar},
                 {"Média Aritmética", Exercicio007.Executar},
                 {"Conversor de Medidas", Exercicio008.Executar},
+                {"Tabuada", Exercicio009.Executar},
             });
 
             central.SelecionarEExecutar();
