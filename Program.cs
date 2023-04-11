@@ -16,6 +16,7 @@ namespace ExerciciosCsharp {
                 {"Média Aritmética", Exercicio007.Executar},
                 {"Conversor de Medidas", Exercicio008.Executar},
                 {"Tabuada", Exercicio009.Executar},
+                {"Conversor de Moedas", Exercicio010.Executar},
             });
 
             central.SelecionarEExecutar();
