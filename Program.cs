@@ -19,6 +19,7 @@ namespace ExerciciosCsharp {
                 {"Conversor de Moedas", Exercicio010.Executar},
                 {"Pintando Parede", Exercicio011.Executar},
                 {"Calculando Descontos", Exercicio012.Executar},
+                {"Reajuste Salarial", Exercicio013.Executar},
             });
 
             central.SelecionarEExecutar();
