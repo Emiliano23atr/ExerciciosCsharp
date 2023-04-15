@@ -22,6 +22,7 @@ namespace ExerciciosCsharp {
                 {"Reajuste Salarial", Exercicio013.Executar},
                 {"Conversor de Temperaturas", Exercicio014.Executar},
                 {"Aluguel de Carros", Exercicio015.Executar},
+                {"Quebrando um número", Exercicio016.Executar},
             });
 
             central.SelecionarEExecutar();
