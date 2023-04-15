@@ -23,6 +23,7 @@ namespace ExerciciosCsharp {
                 {"Conversor de Temperaturas", Exercicio014.Executar},
                 {"Aluguel de Carros", Exercicio015.Executar},
                 {"Quebrando um número", Exercicio016.Executar},
+                {"Catetos e Hipotenusa", Exercicio017.Executar},
             });
 
             central.SelecionarEExecutar();
