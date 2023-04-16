@@ -24,6 +24,7 @@ namespace ExerciciosCsharp {
                 {"Aluguel de Carros", Exercicio015.Executar},
                 {"Quebrando um número", Exercicio016.Executar},
                 {"Catetos e Hipotenusa", Exercicio017.Executar},
+                {"Seno, Cosseno e Tangente", Exercicio018.Executar},
             });
 
             central.SelecionarEExecutar();
