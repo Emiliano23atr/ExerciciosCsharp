@@ -25,6 +25,7 @@ namespace ExerciciosCsharp {
                 {"Quebrando um número", Exercicio016.Executar},
                 {"Catetos e Hipotenusa", Exercicio017.Executar},
                 {"Seno, Cosseno e Tangente", Exercicio018.Executar},
+                {"Sorteando um item na lista", Exercicio019.Executar},
             });
 
             central.SelecionarEExecutar();
