@@ -29,6 +29,7 @@ namespace ExerciciosCsharp {
                 // Exercicio020
                 // Exercicio021
                 {"Analisador de Textos", Exercicio022.Executar},
+                {"Separando dígitos de um número", Exercicio023.Executar},
             });
 
             central.SelecionarEExecutar();
