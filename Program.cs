@@ -26,6 +26,9 @@ namespace ExerciciosCsharp {
                 {"Catetos e Hipotenusa", Exercicio017.Executar},
                 {"Seno, Cosseno e Tangente", Exercicio018.Executar},
                 {"Sorteando um item na lista", Exercicio019.Executar},
+                // Exercicio020
+                // Exercicio021
+                {"Analisador de Textos", Exercicio022.Executar},
             });
 
             central.SelecionarEExecutar();
