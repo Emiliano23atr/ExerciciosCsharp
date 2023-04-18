@@ -30,6 +30,7 @@ namespace ExerciciosCsharp {
                 // Exercicio021
                 {"Analisador de Textos", Exercicio022.Executar},
                 {"Separando dígitos de um número", Exercicio023.Executar},
+                {"Verificando as primeiras letras de um texto", Exercicio024.Executar},
             });
 
             central.SelecionarEExecutar();
