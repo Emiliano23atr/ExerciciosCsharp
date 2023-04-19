@@ -32,6 +32,7 @@ namespace ExerciciosCsharp {
                 {"Separando dígitos de um número", Exercicio023.Executar},
                 {"Verificando as primeiras letras de um texto", Exercicio024.Executar},
                 {"Procurando uma string dentro de outra", Exercicio025.Executar},
+                {"Primeira e última ocorrência de uma string", Exercicio026.Executar},
             });
 
             central.SelecionarEExecutar();
