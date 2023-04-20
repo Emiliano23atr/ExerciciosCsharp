@@ -34,6 +34,7 @@ namespace ExerciciosCsharp {
                 {"Procurando uma string dentro de outra", Exercicio025.Executar},
                 {"Primeira e última ocorrência de uma string", Exercicio026.Executar},
                 {"Primeiro e último nome de uma pessoa", Exercicio027.Executar},
+                {"Jogo da Adivinhação v.1.0", Exercicio028.Executar},
             });
 
             central.SelecionarEExecutar();
